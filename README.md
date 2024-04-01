@@ -3,6 +3,8 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=souvagyaganguli&label=Profile%20views&color=0e75b6&style=flat" alt="souvagyaganguli" /> </p>
 
+- 💬 Ask me about **Front-end Development, ReactJS**
+
 - 📫 How to reach me **souvagya.work@gmail.com**
 
 - 📄 Know about my experiences [https://drive.google.com/file/d/1o7IRver9jE8OxPKtVl9g-7xDljXaqErq/view?usp=sharing](https://drive.google.com/file/d/1o7IRver9jE8OxPKtVl9g-7xDljXaqErq/view?usp=sharing)
